@@ -1,0 +1,4 @@
+br\com\jeb\dao\generic\jdbc\dao\ClienteDAO.class
+br\com\jeb\dao\generic\jdbc\dao\IClienteDAO.class
+br\com\jeb\dao\generic\jdbc\ConnectionFactory.class
+br\com\jeb\domin\Cliente.class
