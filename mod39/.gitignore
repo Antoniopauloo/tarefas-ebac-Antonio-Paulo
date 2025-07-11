@@ -1,0 +1,68 @@
+# Build and Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.class
+*.jar
+*.war
+*.ear
+dependency-reduced-pom.xml
+.mvn/timing.properties
+
+# Tomcat specific
+/bin/apache-tomcat-*/
+/bin/*.bat
+/work/
+catalina.base_IS_UNDEFINED/
+catalina.home_IS_UNDEFINED/
+*.pid
+*.port
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### Logs and temp files ###
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
