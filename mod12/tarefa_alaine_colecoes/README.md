@@ -30,7 +30,7 @@ mod12/
 
 ## 🔗 Repositório no GitHub:
 
-[https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod11/tarefa_alaine_colecoes](https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod11/tarefa_alaine_colecoes)
+[https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod12/tarefa_alaine_colecoes](https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod12/tarefa_alaine_colecoes)
 
 ---
 
