@@ -1,0 +1,5 @@
+br\com\jeb\produtos_api\repository\ProdutoRepository.class
+module-info.class
+br\com\jeb\produtos_api\model\Produto.class
+br\com\jeb\produtos_api\ProdutosApiApplication.class
+br\com\jeb\produtos_api\controller\ProdutoController.class

@@ -1,0 +1,4 @@
+--patch-module
+br.com.jeb.produtos_api=_
+--add-reads
+br.com.jeb.produtos_api=ALL-UNNAMED
