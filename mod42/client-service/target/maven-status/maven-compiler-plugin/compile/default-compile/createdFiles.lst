@@ -1,0 +1,8 @@
+com\ebac\client\model\Client.class
+com\ebac\client\service\ClientService.class
+com\ebac\client\config\SecurityConfig.class
+com\ebac\client\NoSecurityConfig.class
+com\ebac\client\repository\ClientRepository.class
+com\ebac\client\ClientServiceApplication.class
+com\ebac\client\config\WebConfig.class
+com\ebac\client\controller\ClientController.class

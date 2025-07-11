@@ -1,0 +1,6 @@
+com\ebac\product\controller\ProductController.class
+com\ebac\product\config\SecurityConfig.class
+com\ebac\product\ProductServiceApplication.class
+com\ebac\product\model\Product.class
+com\ebac\product\service\ProductService.class
+com\ebac\product\repository\ProductRepository.class
