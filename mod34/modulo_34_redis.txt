@@ -1,0 +1,10 @@
+Aluno: Antonio Paulo Camarda dos Santos
+Módulo: 34
+
+Redis
+
+Redis é um banco de dados do tipo chave-valor que armazena dados na memória. Ele é muito rápido e utilizado principalmente para cache de aplicações, sessões de usuários, contadores, filas e ranking em jogos. Redis suporta estruturas como strings, hashes, listas, conjuntos e sorted sets.
+
+Cassandra
+
+Cassandra é um banco de dados NoSQL distribuído criado pela Apache. Ele é ideal para aplicações que lidam com grandes volumes de dados, alta escalabilidade e alta disponibilidade, como em sistemas de recomendação, redes sociais e sensores IoT. Cassandra é altamente tolerante a falhas e permite escrever e ler dados mesmo quando parte do sistema está fora do ar.
