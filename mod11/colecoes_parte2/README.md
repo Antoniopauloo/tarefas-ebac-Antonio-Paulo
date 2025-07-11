@@ -20,7 +20,7 @@ mod11/
 ```
 
 ## 🔗 Repositório no GitHub:
-[https://github.com/Antoniopauloo/tarefas-ebac-tarefas-ebac-Antonio-Paulo/tree/main/mod11/colecoes_parte2](https://github.com/Antoniopauloo/tarefas-ebac-tarefas-ebac-Antonio-Paulo/tree/main/mod11/colecoes_parte2)
+[https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod11/colecoes_parte2](https://github.com/Antoniopauloo/tarefas-ebac-Antonio-Paulo/tree/main/mod11/colecoes_parte2)
 
 ---
 
