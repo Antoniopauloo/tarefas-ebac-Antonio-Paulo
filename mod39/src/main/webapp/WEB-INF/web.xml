@@ -9,7 +9,7 @@
 
   <servlet>
     <servlet-name>ContatoServlet</servlet-name>
-    <servlet-class>com.exemplo.ContatoServlet</servlet-class>
+    <servlet-class>br.com.jeb.ContatoServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>

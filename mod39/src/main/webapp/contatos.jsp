@@ -1,4 +1,4 @@
-<%@ page import="br.com.Ant.ContatoServlet, br.com.Ant.Contato" %>
+<%@ page import="br.com.jeb.ContatoServlet, br.com.jeb.Contato" %>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html lang="pt-BR">
